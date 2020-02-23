@@ -1,7 +1,7 @@
 {
   "name": "final-attempt",
   "version": "0.1.0",
-  "homepage":"https://joshuasoller.github.io/testing_upload",
+  "homepage": "https://joshuasoller.github.io/testing_upload",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
